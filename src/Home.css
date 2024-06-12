@@ -1,0 +1,50 @@
+
+.sec1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.heading{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.heading h1, .sub-heading{
+    background: -webkit-linear-gradient(#db48b4, #6a6eda);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+
+@media(max-width:600px){
+    .sec1{
+        width: 100%;
+        height: 200px; 
+    }
+
+    .image{
+        width: 100%;
+        height: 200px;
+        
+    }
+
+    .heading h1{
+        font-size: 25px;
+    }
+    .sub-heading{
+        font-size:15px;
+    }
+
+}
+
+

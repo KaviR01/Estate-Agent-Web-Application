@@ -1,0 +1,11 @@
+.footer-main {
+    background-color: rgb(181, 176, 176);
+    color: rgb(4, 4, 4);
+    width: 100vw;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}

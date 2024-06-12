@@ -1,0 +1,180 @@
+.function-main {
+    width: 100vw;
+    padding: 20px;
+    background: #ced8ff;
+}
+
+.function-main-button {
+    width: 80vw;
+    padding: 15px ;
+    border-radius: 10px;
+    background-color: #80d3e1;
+}
+
+.advancedSearchContent {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(149, 158, 158);
+
+}
+
+.advancedSearchContent button {
+    padding: 10px 20px;
+    font-weight: 600;
+    background-color: #80d3e1;
+}
+
+.advancedSearchContent button:hover{
+    background-color: #348c9b;
+    transition: 1s;
+}
+
+.advancedSearchContent * { 
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: 500;
+    margin: 0px 5px;
+}
+.searchResAndFavItems {
+    display: flex;
+    flex-direction: row;
+}
+
+.searchResAndFavItems * {
+    width: 48vw;
+}
+
+.itemTile {
+    background-color: rgb(182, 157, 243);
+    margin: 10px;
+    width: 250px;
+    list-style: none;
+    padding: 10px;
+    box-shadow: 0px 0px 15px -5px;
+    transition: 0.3s;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.itemTileButton {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    width: 240px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #80d3e1;
+}
+
+.itemTileButton:hover{
+    background-color: #348c9b;
+    transition: 1s;
+}
+
+.itemTile > strong {
+    max-width: 250px;
+}
+
+.itemTileImage {
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.tileSet {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.function-main-button {
+    font-weight: 600px;
+    font-size: 20px;
+}
+
+.imageSlider {
+    display: flex;
+    flex-direction: row;
+}
+
+.itemTile * {
+    margin: 5px;
+}
+
+.sliderbutton {
+    border: none;
+    padding-top: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: transparent;
+    transition: background-color 0.5s, border-radius 0.5s;
+  }
+  
+  .sliderbutton:hover {
+    background-color: rgb(225, 134, 239);
+    border-radius: 20px;
+  }
+.itemTile2 {
+    width: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(246, 215, 245);
+} 
+
+.FavClearButton{
+    float: right;
+    margin-right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: rgb(86, 81, 81);
+}
+
+.clear-btn{
+    width: 50px;
+    height: 50px;
+}
+
+.outerBoarder-available-items{
+   width: 60%;
+
+}
+
+.outerBoarder-fav-items{
+    width: 40%;
+
+}
+
+.outerBoarder-available-items,.outerBoarder-fav-items h2{
+    margin-right: 20px;
+}
+
+
+@media (orientation: portrait) {
+    .searchResAndFavItems {
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    
+    }
+    .advancedSearchContent * {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 5px;
+    }
+    .outerBoarder-available-items ,.outerBoarder-fav-items {
+        width: 100vw;
+        margin-left: 20px;
+    }
+
+    .itemTile {
+        padding: auto;
+        margin: auto;
+        margin-left: 20vw;
+    }
+}

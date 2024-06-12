@@ -1,0 +1,137 @@
+{
+	"properties": [
+		{
+			"id": "prop1",
+			"type": "House",
+			"bedrooms": 3,
+			"price": 750000,
+			"tenure": "Freehold",
+			"description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well-presented interior...",
+			"location": "London,United Kingdom",
+			"picture": "./images/prop1.jpeg",
+			"pictures": ["./images/prop1.jpeg","./images/B1.jpeg","./images/P1.jpeg", "./images/K1.jpeg", "./images/BR1.jpeg", "./images/D1.jpeg"],
+			"url": "properties/prop1.html",
+			"floorplan": "./images/FP1.jpeg",
+			"locationparams": {"latitude": 51.50652,  "longitude":  -0.11049},
+			"added": {
+				"month": "October",
+				"day": 12,
+				"year": 2022
+			}
+		},
+		{
+			"id": "prop2",
+			"type": "Flat",
+			"bedrooms": 2,
+			"price": 399995,
+			"tenure": "Freehold",
+			"description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi-folding doors onto a secluded private courtyard garden. Both bedrooms are double-sized, and the family bathroom boasts a matching three-piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location": "Erith, United Kingdom",
+			"picture": "./images/prop2.jpeg",
+			"pictures": ["./images/prop2.jpeg","./images/B2.jpeg","./images/P2.jpeg", "./images/K2.jpeg", "./images/BR2.jpeg", "./images/D2.jpeg"],
+			"url": "properties/prop2.html",
+			"floorplan": "./images/FP2.jpeg",
+			"locationparams": {"latitude": 51.47871, "longitude":  0.17873 },
+			"added": {
+				"month": "September",
+				"day": 14,
+				"year": 2022
+			}
+		},
+		{
+			"id": "prop3",
+			"type": "Flat",
+			"bedrooms": 4,
+			"price": 999950,
+			"tenure": "Leasehold",
+			"description": "Stylish four-bedroom flat in a modern development with communal gardens and parking. Ideally located for city centre access and close to transport links. The property features an open-plan living/dining area with modern kitchen, two double bedrooms, and a contemporary bathroom. Benefits include double glazing, underfloor heating, and a balcony.",
+			"location": "Westminster, United Kingdom",
+			"picture": "./images/prop3.jpeg",
+			"pictures": ["./images/prop3.jpeg","./images/B3.jpeg","./images/P3.jpeg", "./images/K3.jpeg", "./images/BR3.jpeg", "./images/D3.jpeg"],
+			"url": "properties/prop3.html",
+			"floorplan": "./images/FP3.jpeg",
+			"locationparams": {"latitude": 51.49739,"longitude":  -0.13273 },
+			"added": {
+				"month": "November",
+				"day": 25,
+				"year": 2022
+			}
+		},
+		{
+			"id": "prop4",
+			"type": "House",
+			"bedrooms": 4,
+			"price": 895000,
+			"tenure": "Freehold",
+			"description": "Spacious four-bedroom detached house in a sought-after residential area. Boasting a large garden, double garage, and potential for extension. The property comprises a spacious living room with fireplace, separate dining room, modern kitchen, four well-proportioned bedrooms, and two bathrooms. Additional features include a home office, conservatory, and ample storage.",
+			"location": "Brixton, United Kingdom",
+			"picture": "./images/prop4.jpeg",
+			"pictures": ["./images/prop4.jpeg","./images/B4.jpeg","./images/P4.jpeg", "./images/K4.jpeg", "./images/BR4.jpeg", "./images/D4.jpeg"],
+			"url": "properties/prop4.html",
+			"floorplan": "./images/FP4.jpeg",
+			"locationparams": {"latitude": 51.46123, "longitude":  -0.11564},
+			"added": {
+				"month": "December",
+				"day": 10,
+				"year": 2022
+			}
+		},
+		{
+			"id": "prop5",
+			"type": "Flat",
+			"bedrooms": 1,
+			"price": 250000,
+			"tenure": "Leasehold",
+			"description": "Ideally located one-bedroom flat perfect for first-time buyers or investors. Situated within a short walk of the city centre and close to amenities. The property features a bright and open-plan living/kitchen area, a well-sized bedroom, and a modern bathroom. Benefits from a balcony and access to communal gardens.",
+			"location": "Lambeth, United Kingdom",
+			"picture": "./images/prop5.jpeg",
+			"pictures": ["./images/prop5.jpeg","./images/B5.jpeg","./images/P5.jpeg", "./images/K5.jpeg", "./images/BR5.jpeg", "./images/D5.jpeg"],
+			"url": "properties/prop5.html",
+			"floorplan": "./images/FP5.jpeg",
+			"locationparams": {"latitude": 51.49374, "longitude": -0.11640},
+			"added": {
+				"month": "January",
+				"day": 15,
+				"year": 2023
+			}
+		},
+		{
+			"id": "prop6",
+			"type": "House",
+			"bedrooms": 5,
+			"price": 1250000,
+			"tenure": "Freehold",
+			"description": "Impressive five-bedroom detached family home with stunning countryside views. Set in a generous plot with a large garden, patio area, and detached double garage. The property offers spacious and well-proportioned rooms throughout, including a grand entrance hall, formal living room, dining room, kitchen/breakfast room, five bedrooms, three bathrooms, and a separate study. Additional features include a home cinema room, utility room, and potential for an annexe.",
+			"location": "London,United Kingdom",
+			"picture": "./images/prop6.jpeg",
+			"pictures": ["./images/prop6.jpeg","./images/B6.jpeg","./images/P6.jpeg", "./images/K6.jpeg", "./images/BR6.jpeg", "./images/D6.jpeg"],
+			"url": "properties/prop6.html",
+			"floorplan": "./images/FP3.jpeg",
+			"locationparams": {"latitude": 51.50652, "longitude": -0.11049},
+			"added": {
+				"month": "March",
+				"day": 22,
+				"year": 2023
+			}
+		},
+		{
+			"id": "prop7",
+			"type": "House",
+			"bedrooms": 3,
+			"price": 680000,
+			"tenure": "Freehold",
+			"description": "Charming three-bedroom cottage with character features and a delightful garden. The property comprises a cozy living room with a fireplace, a country-style kitchen, three bedrooms, and a family bathroom. Enjoy the tranquility of the countryside while being conveniently located near local shops and schools.",
+			"location": "Lambeth, United Kingdom",
+			"picture": "./images/prop7.jpeg",
+			"pictures": ["./images/prop7.jpeg","./images/B7.jpeg","./images/P7.jpeg", "./images/K7.jpeg", "./images/BR7.jpeg", "./images/D7.jpeg"],
+			"url": "properties/prop7.html",
+			"floorplan": "./images/FP2.jpeg",
+			"locationparams": {"latitude": 51.49374, "longitude": -0.11640},
+			"added": {
+				"month": "April",
+				"day": 5,
+				"year": 2023
+			}
+		}
+	]
+}
